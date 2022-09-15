@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Jack Flores</title>
+<style>
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+
+    <h1>CS20 Assignment 1</h1>
+    <p>My name is Jack Flores</p>
+    <p>Computer Science Major</p>
+    <p>My IP address is 130.64.64.65</p>
+    <p>I grew up in Newport Beach, California</p>
+    <p>Most people wouldn't expect that I produce music</p>
+    <p>My favorite place:</p>
+    <img src="honolua.jpeg" alt="Honolua Bay" style="width:400px">
+
+</body>
+</html>
